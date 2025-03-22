@@ -52,5 +52,5 @@ tags={
 }
 picture="thumbnail.png"
 name="New Ways Alpha"
-supported_version="1.14.*"
+supported_version="1.16.*"
 path="mod/new_ways_alpha"
